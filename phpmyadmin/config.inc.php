@@ -54,9 +54,9 @@ $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
 
 
-$cfg['Servers'][$i]['auth_type'] = 'config';
-$cfg['Servers'][$i]['user'] = $userDB;
-$cfg['Servers'][$i]['password'] = $passDB;
+// $cfg['Servers'][$i]['auth_type'] = 'config';
+// $cfg['Servers'][$i]['user'] = $userDB;
+// $cfg['Servers'][$i]['password'] = $passDB;
 /**
  * phpMyAdmin configuration storage settings.
  */
